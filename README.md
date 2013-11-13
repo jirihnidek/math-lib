@@ -1,4 +1,14 @@
-math-lib
+Math Lib
 ========
 
-Simple math library for Git course
+Simple C application for Git course
+
+Build
+-----
+
+How to build this app:
+
+    $ mkdir build
+    $ cmake ./
+    $ make
+
